@@ -5,6 +5,7 @@ Como la aplicación Sauce Demo es una aplicación demo, los requisitos fueron in
 ## Requisitos funcionales
 
 | ID | Módulo | Requisito |
+|---|---|
 | REQ-001 | Register | El sistema debe permitir crear una cuenta para realizar login |
 | REQ-002 | Login    | El sistema debe permitir el inicio de sesión con credenciales válidas. |
 | REQ-003 | Login    | El sistema debe mostrar un mensaje de error cuando el usuario ingresa credenciales inválidas. |
