@@ -5,7 +5,7 @@
 | Campo | Descripción |
 | ID | TC-001 |
 | Módulo | Login |
-| Requisito relacionado | REQ-001 |
+| Requisito relacionado | REQ-002 |
 | Prioridad | Alta |
 | Tipo de prueba | Funcional positiva |
 | Precondición | El usuario debe estar en la página de login. |
@@ -34,7 +34,7 @@ Pendiente.
 | Campo | Descripción |
 | ID | TC-002 |
 | Módulo | Login |
-| Requisito relacionado | REQ-002 |
+| Requisito relacionado | REQ-003 |
 | Prioridad | Alta |
 | Tipo de prueba | Funcional positiva |
 | Precondición | El usuario debe estar en la página de login. |
